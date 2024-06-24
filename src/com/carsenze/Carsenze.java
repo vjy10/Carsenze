@@ -42,13 +42,6 @@ public class Carsenze extends Activity {
                 Log.d(TAG, "ICarsenze AIDL daemon interface is binded!");
             }
         }
-//
-        //
-        ////
-        //
-        //
-        /
-        /
         // Update stats initially
         updateStats();
     }
